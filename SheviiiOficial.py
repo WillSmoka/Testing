@@ -5,10 +5,10 @@ import socket
 SERVER = "irc.twitch.tv"  # server
 PORT = 6667  # port
 ### Options (Edit this)
-PASS = "oauth:kbeahw6umedl3gzgmlt3y1wl3dwhzz"  # bot password can be found on https://twitchapps.com/tmi/
-BOT = "llSancheeZ"  # Bot's name [NO CAPITALS]
-CHANNEL = "sheviiioficial"  # Channal name [NO CAPITALS]
-OWNER = "sheviiioficial"  # Owner's name [NO CAPITALS]
+PASS = "oauth:lquub6pbgnq3pjusnwk18p8rbjfvf3"  # bot password can be found on https://twitchapps.com/tmi/
+BOT = "masoqueeisso"  # Bot's name [NO CAPITALS]
+CHANNEL = "axtlol"  # Channal name [NO CAPITALS]
+OWNER = "axtlol"  # Owner's name [NO CAPITALS]
  
 ### Functions
  

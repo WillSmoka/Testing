@@ -7,8 +7,8 @@ PORT = 6667  # port
 ### Options (Edit this)
 PASS = "oauth:lquub6pbgnq3pjusnwk18p8rbjfvf3"  # bot password can be found on https://twitchapps.com/tmi/
 BOT = "masoqueeisso"  # Bot's name [NO CAPITALS]
-CHANNEL = "axtlol"  # Channal name [NO CAPITALS]
-OWNER = "axtlol"  # Owner's name [NO CAPITALS]
+CHANNEL = "and1fps"  # Channal name [NO CAPITALS]
+OWNER = "and1fps"  # Owner's name [NO CAPITALS]
  
 ### Functions
  
